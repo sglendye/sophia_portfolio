@@ -1,0 +1,30 @@
+{
+    "name": "wordpress-plugin/staatic",
+    "type": "wordpress-plugin",
+    "description": "Use WordPress as your CMS, then publish a fast, lower-exposure static version of your site.",
+    "keywords": [
+        "wordpress",
+        "static site",
+        "static wordpress",
+        "static site generator",
+        "performance",
+        "security"
+    ],
+    "homepage": "https://staatic.com/wordpress",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Staatic",
+            "email": "contact@staatic.com",
+            "homepage": "https://staatic.com/"
+        }
+    ],
+    "support": {
+        "email": "contact@staatic.com",
+        "forum": "https://wordpress.org/support/plugin/staatic/",
+        "docs": "https://staatic.com/wordpress/documentation/"
+    },
+    "require": {
+        "php": ">=7.1"
+    }
+}
